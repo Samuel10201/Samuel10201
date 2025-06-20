@@ -38,14 +38,3 @@ Estudiante de Ingeniería de Sistemas y Ciencia de Datos • Apasionado por la t
 
 - ✉️ **Correo UNINORTE:** sb@uninorte.edu.co  
 - 🌐 **Platzi:** [platzi.com/p/samuel.david.vasquez.barragan](https://platzi.com/p/samuel.david.vasquez.barragan/)
-
----
-
-## ✨ Extras
-
-> Este perfil está en construcción activa — cada commit refleja un nuevo paso en mi camino para combinar **desarrollo full stack** y **ciencia de datos**.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samuel10201&label=Profile+views" alt="Profile views"/>
-</p>
-
