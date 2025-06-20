@@ -1,4 +1,5 @@
 <h1 align="center">¡Hola, soy Samuel Vásquez! 👋</h1>
+
 <p align="center">
 Estudiante de Ingeniería de Sistemas y Ciencia de Datos • Apasionado por la tecnología • Futuro Full Stack Developer
 </p>
@@ -16,12 +17,16 @@ Estudiante de Ingeniería de Sistemas y Ciencia de Datos • Apasionado por la t
 
 ## 🛠 Tecnologías y herramientas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"   alt="Java"   width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"     alt="Git"    width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"  width="40" height="40"/>
-</p>
+<div align="left" style="display: flex; gap: 15px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"   alt="Java"   width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"     alt="Git"    width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"  width="40" height="40"/>
+
+</div>
+
+<br>
 
 > 🧠 Reforzando fundamentos en **Python** y **Java** — enfocándome en buenas prácticas, estructuras de datos y control de versiones.
 
@@ -29,7 +34,7 @@ Estudiante de Ingeniería de Sistemas y Ciencia de Datos • Apasionado por la t
 
 ## 📈 En formación continua
 
-- 👨‍💻 Cursos activos en Platzi (Backend, Frontend, GitHub).
+- 👨‍💻 Cursos activos en Platzi (Backend, Frontend, GitHub).  
 - 📦 Explorando desarrollo web (HTML, CSS, JavaScript), uso de la IA y habilidades blandas.
 
 ---
@@ -38,3 +43,4 @@ Estudiante de Ingeniería de Sistemas y Ciencia de Datos • Apasionado por la t
 
 - ✉️ **Correo UNINORTE:** sb@uninorte.edu.co  
 - 🌐 **Platzi:** [platzi.com/p/samuel.david.vasquez.barragan](https://platzi.com/p/samuel.david.vasquez.barragan/)
+
